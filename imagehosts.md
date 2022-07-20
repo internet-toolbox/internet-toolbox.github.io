@@ -126,16 +126,17 @@
 
 ---
 
-## [Nest.rip](https://nest.rip)
+## [nest.rip](https://nest.rip)
 
 - Nest is a new relatively unknown image host, owned and developed by Pringles.
-- UI looks... decent. It isn't flashy or anything, just gets the job done and doesn't burn your eyes - 7/10
+- UI looks pretty good. It isn't flashy or anything, just gets the job done and doesn't burn your eyes - 7/10
   - [An image with their hosts dashboard](https://gaymen.likes.gay/%E2%81%A0%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8B%E2%80%8D%E2%80%8D%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8D%E2%80%8B%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8D%E2%81%A0%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8B%E2%80%8B%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8C%E2%81%A0%E2%80%8B%E2%80%8D%E2%80%8D%E2%81%A0%E2%80%8B%E2%80%8D)
 - There is a "free" option however there are some limitations,
   - uploads are limited to 100 per day
   - Autowipe and exploding files are locked
 - Will be updated to have bio pages so will be updated soon when that happens!
 - Owner (pringles) is a backend dev, and he's the only person working on the project, hopefully a new frontend will come sooner or later.
+- The Owner also really helped me put together this list, and added most features I suggested, props to him.
 
 ---
 
