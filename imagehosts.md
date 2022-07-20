@@ -68,7 +68,7 @@
 
 ---
 
-## [Upload.systems](https://upload.systems)
+## [upload.systems](https://upload.systems)
 
 - A public, free to use image host with premium quality features
 
@@ -126,7 +126,7 @@
 
 ---
 
-## [Nest.rip](https://nest.rip)
+## [nest.rip](https://nest.rip)
 
 - Nest is a new relatively unknown image host, owned and developed by Pringles.
 - UI looks... decent. It isn't flashy or anything, just gets the job done and doesn't burn your eyes - 7/10
@@ -193,7 +193,7 @@ print("Alting since 22/02/04 \nbanned for no reason ty skirt")
 
 ---
 
-## [Encrypting.host](https://encrypting.host)
+## [encrypting.host](https://encrypting.host)
 
 - A public (!!!) image host developed by Ralf and Sarah, owned by Ralf.
 
