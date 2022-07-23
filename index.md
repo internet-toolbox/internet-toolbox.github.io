@@ -21,3 +21,7 @@
 [Changelog](changelog.md)<br>
 
 <br>
+
+[Discord](https://discord.gg/qYrGkvDMTr)<br>
+
+<br>
