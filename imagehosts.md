@@ -46,11 +46,12 @@
   - The appearance of the dashboard is changeable to something [more minimal](https://sussy.one/🍠‼️🦹‍♂️🙎🏽👨‍💼).
 - Settings
   
-  - Ability to improve upload performance using
+  - Ability to improve upload performance using 
     
     - ```
       When enabled, Horizon efficiently creates an identifiable representation of file data. If Horizon detects a duplicate file, it can return the previously uploaded file instead, minimizing upload processing time and reducing server load.
       ```
+      \*cough* hashing \*cough*
       
   - Security and Privacy
     
@@ -252,7 +253,7 @@ print("Alting since 22/02/04 \nbanned for no reason ty skirt")
 
 - Celeste is a relatively unknown image host in the community, owned and developed by Front.
   
-- UI looks clean *before* the recent(probably recent idk) update, which introduced *a lot* of round corners.
+- UI looks clean *before* the recent (probably recent idk) update, which introduced *a lot* of round corners.
   
   - [An image with their hosts dashboard](https://i.celeste.photos/iWuaSpui.png)
     
