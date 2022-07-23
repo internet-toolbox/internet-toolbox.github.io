@@ -128,7 +128,7 @@
 ## [nest.rip](https://nest.rip)
 
 - Nest is a new relatively unknown image host, owned and developed by Pringles.
-- UI looks pretty good. It isn't flashy or anything, just gets the job done and doesn't burn your eyes - 6/10
+- UI looks pretty good. It isn't flashy or anything, just gets the job done and doesn't burn your eyes - 7/10
   - [An image with their hosts dashboard](https://gaymen.likes.gay/%E2%81%A0%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8B%E2%80%8D%E2%80%8D%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8D%E2%80%8D%E2%80%8B%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8D%E2%81%A0%E2%80%8D%E2%80%8C%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8B%E2%80%8B%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8C%E2%81%A0%E2%80%8B%E2%80%8D%E2%80%8D%E2%81%A0%E2%80%8B%E2%80%8D)
 - There is a "free" option however there are some limitations,
   - uploads are limited to 100 per day
